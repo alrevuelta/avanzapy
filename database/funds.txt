@@ -1,0 +1,1296 @@
+id;name
+1512;Franklin US Opportunities A(acc)USD
+286898;Allianz Euro High Yield Bond A EUR
+1047828;CS (Lux) Global Value Equity BH USD
+692753;Länsförsäkringar Multistrategi
+257890;DNB Fund TMT Abs Return retail A (SEK)
+146;Länsförsäkringar Asienfond A
+596495;Danske Invest Emerging & Fron Mkts A SEK
+3063;HSBC GIF Indian Equity AC
+71104;Invesco Euro Corporate Bond A EUR Acc
+891313;Invesco Bond A USD SD
+202870;Nordea 1 - Alpha 10 MA HB SEK
+382860;C WorldWide Asia 1A
+32347;HSBC GIF Turkey Equity AC
+1960;Nordea Swedish Stars icke-utd
+176468;Amundi Fds Japan Equity Val A2 JPY C
+459035;PriorNilsson Realinvest A
+148528;Sparinvest SICAV Securus EUR R
+717;BGF European A2
+329335;DNB USA Indeks A
+12268;Janus Henderson Hrzn Global Tech A2 USD
+855014;Öhman Navigator A
+78668;Swedbank Robur Sweden High Dividend
+1462;SEB US All Cap Fund C USD - Lux
+627796;Atlant Multi-Strategy
+693994;Spiltan Globalfond Investmentbolag
+891317;Invesco Global High Income A SEKH Acc
+1044018;Investerum Basic Value
+269548;Case Safe Play
+544596;SPP Grön Obligationsfond A
+92867;Jupiter Asia Pac Inc L USD Acc
+1011195;Consensus Lighthouse Asset A
+508256;Handelsbanken Euro Ränta
+813855;Sparinvest SICAV VB Glbal Eth HY EUR R
+1600;SEB Nordamerikafond Småbolag
+70074;AS SICAV I Em Mkts Eq A Acc USD
+71134;Invesco US Structured Equity A USD Acc
+181850;UBS (Lux) KSS Asian Eqs $ USD P Acc
+1984;SEB Sverige Expanderad
+2063;SEB Likviditetsfond SEK
+15185;Janus Henderson Glb Eq R USD Acc
+616837;Invesco Euro Equity A EUR Acc
+415688;BNP Paribas US Growth Classic R
+1632;Handelsbanken Norge (A1 SEK)
+644315;GAM Star Disruptive Gr A USD Acc
+372353;Lannebo Corporate Bond A
+374277;BGF Global High Yield Bond A2 SEK Hedged
+735;Templeton Euroland A (Acc) EUR
+929;SEB Europafond Småbolag
+313047;Norron Active RC SEK
+319516;Jupiter Japan Select L EUR Acc
+1901;Aktie-Ansvar Sverige A
+330057;MS INVF Global Fixed Income Opps A
+69937;Candriam Quant Equities MF Glb C Acc EUR
+1971;Lannebo Sverige
+106;UBS (Lux) EF China Oppo(USD) P USD acc
+2580;East Capital Nya Europa
+377804;Avanza 75
+70371;Franklin India A(acc)USD
+795453;Tellus Bank & Finansfond
+436351;SPP Aktiefond Stabil A
+620775;Nordea 1 - Emerging Markets Sm Cp BP SEK
+573156;Ålandsbanken Norden Aktie SEK
+157891;Templeton Frontier Markets A(acc)USD
+415681;BNP Paribas India Eq Cl Cap
+880693;Coeli Absolute European Equity R SEK
+286152;Fidelity China Consumer A-Acc-USD
+1054935;Jupiter Pan Eurp Smlr Coms L EUR Acc
+1013074;Cicero Sverige A
+377801;PriorNilsson Sverige Aktiv A
+76;JPM India A (dist) USD
+1910;Länsförsäkringar Sverige Aktiv A
+301420;Amundi Fds Equity Jpn Trgt A JPY C
+602918;Quesada Offensiv A
+398157;Cicero Hållbar Mix A
+544595;AGCM Asia Growth RC SEK
+2579;Barings Eastern Europe A USD Inc
+501939;Carnegie Global A
+436817;Allianz Global Small Cap Equity AT USD
+444942;Cicero China Index A
+76979;Fidelity ASEAN A-Acc-USD
+440935;HSBC GIF Mexico Equity AC
+384875;Lannebo Småbolag Select
+301416;Amundi Fds CPR Global Lifestyles AU-C
+234109;Fidelity European Growth A-Acc-EUR
+281283;BNP Paribas Europe Small Cap Cl C
+907820;Pareto Nordic Equity B SEK
+552;SKAGEN Vekst A
+333557;AMF Räntefond Mix
+181858;UBS (Lux) ES Emerging Mkts Sust (USD) P
+782933;AGCM China Stars RC1 SEK
+2016;Spiltan Aktiefond Stabil
+713377;BMO Global Smaller Coms Eq A Acc USD
+404610;Invesco Pan European Focus Eq A EUR Acc
+965040;Invesco Nippon Small/Md Cp Eq A JPY Acc
+65466;Sparinvest SICAV Long Danish Bds EUR R
+111884;Templeton Global High Yield A(acc)USD
+1011686;AGI Allianz China A Shares AT USD
+241952;AS SICAV I Estn Eurp Eq S Acc EUR
+1602;BMO US Smaller Companies A Inc USD
+325406;Spiltan Aktiefond Investmentbolag
+2032;Carnegie Likviditetsfond A
+694253;Cliens Småbolag A
+335015;Öhman Företagsobligation Hållbar A
+907815;Swedbank Robur Selection 50
+487076;Länsförsäkringar Tillväxtmrkd Idxnära A
+119488;Jupiter Global Elgy Gr L EUR Acc
+540;BGF World Energy A2
+378656;UBS European Opportunity Uncons EUR PAcc
+702073;Simplicity Småbolag Sverige A
+2246;SEB Globalfond C USD - Lux
+33233;JPM Global Focus A (acc) EUR
+374855;Mirae Asset Asia Great Consumer Eq A USD
+481107;Allianz Asian Small Cap Equity AT15 USD
+2164;SEB Emerging Marketsfond
+813853;Sparinvest SICAV VB Glb Eth HY SEK R H
+389820;Simplicity Global Corporate Bond A
+378638;CS (Lux) Asia Corporate Bond B USD
+376718;Threadneedle (Lux) European Select AE
+347;Swedbank Robur Fastighet A SEK
+1632;Handelsbanken Norden A1 SEK
+376316;SKAGEN m2 A
+437855;Evli Emerging Frontier B
+838;SEB Korträntefond C EUR - Lux
+263949;Templeton Emerging Mkts Bd A(acc)SEK-H1
+393595;Allianz Thailand Equity A EUR
+1476;Swedbank Robur USA
+74107;Holberg Norge A
+4764;UBS (Lux) ES Small Caps Europe EUR P Acc
+512557;Handelsbanken Norden Selektiv
+670777;CF Tillväxt Sverige A
+266309;SPP Emerging Markets SRI
+715;BMO Sustainable Opps Eurp Eq A Inc EUR
+234112;Fidelity International A-Dis-USD
+936;Swedbank Robur Småbolagsfond Europa A
+2252;DNB Fund Global EM ESG retail A
+862033;DNB Norden Indeks A
+464925;LO Funds Golden Age USD PA
+158428;Enter Return A
+61548;HSBC GIF Asia ex Japan Equity AC
+232953;AS SICAV I Jpn SmlrComs S Acc JPY
+71527;Candriam Bds Global Hi Yld C EUR Cap
+1076398;Handelsbanken Gl Hi Div Lo Vol Cr A1 SEK
+621;Invesco Pan European Equity A EUR Acc
+403595;Skandia Sverige Exponering
+3070;HSBC GIF Global Emerging Mkts Eq AC
+143369;AMF Aktiefond Asien Stilla havet
+156;Fidelity Asian Special Sits A-Dis-USD
+830993;Simplicity Småbolag Global
+209089;Humle Småbolagsfond
+499515;Didner & Gerge Small & Microcap
+814733;East Capital Multi-Strategi A SEK
+680575;Nordea 1 - Flexible Fixed Income HB SEK
+12270;Janus Henderson Hrzn PanEurpPtyEqs A2EUR
+891013;Cliens Företagsobligationer A
+1040;SPP Generation 40-tal
+907815;Swedbank Robur Selection 25
+416237;Evli Nordic Corporate Bond B SEK
+716053;Lancelot Camelot B
+326928;CS (Lux) Global Bal Convert Bd B USD
+2411;Templeton Global A(acc)USD
+365049;Norron Premium RC
+2590;Pictet - Emerging Europe R EUR
+916313;Fidelity Sust Water & Waste A Acc USD
+1009152;Swedbank Robur Företagsobl High Yield
+595175;Quesada Bond Opportunity A
+68707;BNP Paribas Turkey Equity Classic R
+343415;Fidelity Global High Yield A-Acc-USD
+533855;Franklin K2 Alt Strats A(acc)SEK-H1
+459897;BNP Paribas Nordic Small Cap Cl C
+801495;Danske Invest Aktiv Förmögenhetsförv SA
+882673;Invesco PRC Equity A USD AD
+891319;Invesco Emerging Markets Bond A SEKH Acc
+289937;Threadneedle (Lux) American Abs Alp AU
+1942;Catella Sverige Aktiv Hållbarhet
+1542;UBS (Lux) EF Mid Caps USA (USD) P
+499516;Franklin European Ttl Ret A(acc)SEK-H1
+832735;AS SICAV I Mltfct Glbl Eq A Acc EUR
+910094;Handelsbanken Global Index Crit (A1 SEK)
+625256;Atlant Protect A
+204694;Mirae Asset GEM Sector Leader Eq A USD
+1870;Swedbank Robur Sverigefond
+1711;Schroder ISF EM Dbt Abs Rt A Acc SEK
+2178;Danske Invest GloblEmergingMarkts A
+637;Handelsbanken Europa Index Crit (A1 SEK)
+316497;BGF Emerging Markets Eq Inc A2 USD
+634355;Holberg Triton A
+996614;Evli Equity Factor Europe B
+2433;Stewart Investors Wldwd Select A Acc GBP
+439855;Amundi Fds Glbl Eq Cnsrv A USD C
+864975;Evli Finnish Small Cap B
+913953;Handelsbanken Global Selektiv (A1 SEK)
+85;Fidelity Taiwan A-Dis-USD
+70768;Janus Henderson Hrzn Glbl Pty Eqs A2 USD
+462416;Invesco Global Targeted Ret A EUR Acc
+669;Fidelity European Dynamic Gr A-Dis-EUR
+92871;Jupiter European Growth L EUR Acc
+286894;Allianz China Equity A USD
+766853;UBS (Lux) EF China Oppo(USD) P SEK acc
+934955;UBS (Lux) ES Glbl Imp (USD) EUR H P Acc
+323519;Espiria Defensiv DC
+323519;Espiria Defensiv AC
+2069;Lannebo Likviditetsfond
+440909;HSBC GIF Asian Currencies Bond AC
+1047826;Nordea 1 - Global Listed Infrastr BP SEK
+972003;Amundi Fds Euroland Equity A EUR C
+86668;Danske Invest Global EM Small Cap A
+86249;Atlant Sharp
+390917;Nordea Japan
+1038386;GlobeCap 100 A
+453;Swedbank Robur Medica
+600079;UB Europa REIT A
+1907;SEB Hållbarhetsfond Sverige C SEK - Lux
+2158;JPM Emerging Middle East Eq A (dist) USD
+841333;Evli Global Multi Manager 30 Fund B
+853173;Swedbank Robur Global Impact
+2575;Swedbank Robur Europafond
+2384;SEB Dynamisk Aktiefond
+302887;Nordea 1 - Emerging Stars Equity BP SEK
+801497;Danske Invest SRI Global SA
+1644;Fidelity Nordic A-Dis-SEK
+234109;Fidelity European Growth A-Dis-EUR
+39648;Franklin Mutual Glbl DiscvA(acc)USD
+766775;Öhman Sverige Marknad Hållbar A
+716153;Quesada Global
+937914;Lynx Active Balanced Fund D1 SEK
+528379;Espiria Balanserad DC
+348;SEB Fastighetsfond
+1022029;THEAM Quant-Eq Eurp Guru C EUR Cap
+350439;Fidelity Asian Bond A-Acc-USD
+862036;SPP Global Företagsobligations Plus A
+70688;First State Glbl Prpty Secs A Acc GBP
+250631;Turkisfund Bonds A
+616839;Invesco Euro Structured Eq A EUR Acc
+659035;Fidelity Global Focus A-Acc-USD
+289902;Threadneedle (Lux) Pan European Eqs AE
+65407;Sparinvest SICAV European Value EUR R
+397;Franklin Technology A Acc USD
+663195;SPP Emerging Markets Plus A
+1840;SEB Europa Indexfond C EUR - Lux
+1833;Öhman Företagsobligationsfond A
+376808;Threadneedle (Lux) Glbl Mlt Ast Inc AU
+2376;Barings Global Leaders A USD Inc
+463161;DNB Global Indeks A
+315115;Handelsbanken USA Ind Crit A1 SEK
+364936;Pictet-Emerg Mkt Sustainable Eq P USD
+788398;Avanza Auto 1
+799913;Handelsbanken Gl Småbolag Ind Cri A1 SEK
+476475;Evli Emerging Markets Credit B
+1660;Simplicity Norden
+801713;Danske Invest Horisont Ränta SA
+1887;AMF Aktiefond Global
+455060;BNP Paribas Consumer Innovtr Cl C
+316507;BGF Natural Resources Gr & Inc A2 USD
+273829;Norron Select R
+2066;Enter Cross Credit A
+2802;AMF Räntefond Kort
+2138;Barings Global Emerging Mkts A Inc
+80;Fidelity Greater China A-Dis-USD
+259164;Schroder ISF Eurp Spec Sits A Acc EUR
+971314;Nordea 1 European Long Short Eq HB SEK
+404618;Invesco China Focus Equity A USD Acc
+1362;Fidelity Latin America A-Dis-USD
+414066;INVL Emerging Europe Bond
+965036;Invesco Belt and Road Debt A SEKH Acc
+645075;GAM Star Credit Opps (EUR) A EUR Acc
+173876;Amundi Fds Emerging Wld Eq A USD C
+2481;Fidelity Global Bond A-Dis-USD
+1892;Carnegie Sverigefond A
+252929;Danske Invest Globala Realräntor SEK h
+2197;SKAGEN Kon-Tiki A
+789993;BNP Paribas US Value Mlt-Fac Eq Cl R
+396;Pictet-Digital R USD
+191188;SEB Asset Sel Opportun C SEK - Lux
+473;SEB Läkemedelsfond
+512556;Handelsbanken Kinafond
+746774;Allianz Global High Yield A USD
+154;Fidelity Asia Focus A-Dis-USD
+3062;HSBC GIF Hong Kong Equity AC
+949324;Nordea 1 - European Covered Bond HB SEK
+241951;AS SICAV I WldResEq S USD Acc
+132510;Spiltan Aktiefond Småland
+1025148;AMF Aktiefond Tillväxtmarknader
+788398;Avanza Auto 3
+691673;DNB Europa Indeks A
+476836;Ålandsbanken Euro Bond SEK
+16527;C WorldWide Emerging Markets 1A
+801496;Danske Invest Global Index SA
+701;Franklin Eurp Sm-Mid Cap A(acc)EUR
+2742;Handelsbanken Multi Asset 120 (A1 SEK)
+475797;Swedbank Robur Företagsobligationsfond A
+70759;Invesco India Equity A USD AD
+316923;BGF European Equity Income A2
+508255;Handelsbanken Sverige Selektiv
+602915;OPM Global Quality Companies A
+590079;MS INVF Global Balanced Income A
+415690;Lannebo Mixfond Offensiv
+679795;BNP Paribas Smart Food Cl Cap
+70356;Invesco Pan Eur StructEq A EUR Acc
+135;Handelsbanken Brasilien Tema A1 SEK
+377809;SPP FRN Företagsobligationsfond A
+2166;Invesco Emerging Europe Equity A USD Acc
+70211;MS INVF US Property A
+2058;Skandia Korträntefond
+1505;SPP Aktiefond USA
+926113;Lannebo Sverige Hållbar A SEK
+823613;Nordea Swedish Ideas Equity
+334858;Allianz Global Metals and Mining A EUR
+465181;LO Funds Europe High Convc EUR PA
+1254;Handelsbanken Japan Tema (A1 SEK)
+3022;HSBC GIF Asia ex Jpn Eq Smlr Coms AC
+1503;SEB Nordamerikafond
+289940;Threadneedle(Lux) Gl EM ST Bds AU
+1878;Skandia SMART Offensiv
+535296;Plain Capital LunatiX
+430715;FIM Frontier B
+2498;Länsförsäkringar Gl Strategisk Ränta A
+789175;PLUS Småbolag Sverige Index
+79694;Delphi Global A
+237984;Ålandsbanken Premium 30 B
+3061;HSBC GIF Chinese Equity AC
+289817;MS INVF Emerging Mkts Corp Debt A
+346935;IKC Avkastningsfond
+750;Schroder ISF EURO Equity A Acc EUR
+1011194;Consensus Global Select A
+317656;Invesco US Value Equity A USD Acc
+818953;Swedbank Robur Företagsobligation Mix A
+353095;Tellus Globala Investmentbolag
+592235;Swedbank Robur Access Sverige
+1011177;Lannebo Teknik Småbolag
+1011197;Consensus Sverige Select A
+70560;Janus Henderson Hrzn AsPac Pty Eqs A2USD
+600081;UB Infra A
+81;Fidelity Indonesia A-Dis-USD
+12270;Janus Henderson Hrzn Pan Eurp Eq A2 EUR
+321692;DNB Finans A
+118;Pictet-Greater China R USD
+24328;Öhman Etisk Index Sverige A
+755573;Peak Equity Alpha (A) SEK
+1040;SPP Generation 80-tal
+961;Pictet-Small Cap Europe R EUR
+2078;Carnegie Investment Grade A
+1038776;DNB Fund - Nordic Small Cap Retail A SEK
+950781;Nordea 1 - Low Dur Eurp Cov Bd HB SEK
+795454;Öhman Grön Obligationsfond A
+547;BGF Sustainable Energy A2
+20993;Handelsbanken Sverige Index Criteria
+277569;Fidelity European Div A-Acc-EUR
+63;Stewart Investors AsiaPac Ldrs A Acc GBP
+75777;Nordea Stabila Aktier H-SEK
+232948;AS SICAV I Asn Prpty Shr S Acc USD
+41815;Schroder ISF BRIC A Acc USD
+150208;Fidelity American Diversified A-Acc-EUR
+645076;GAM Star China Equity A USD Acc
+409832;MS INVF Global Advantage A
+659795;SEF – Kavaljer Quality Focus A SEK
+3141;HSBC GIF Brazil Equity AC
+616836;Janus Henderson Hrzn PanEurp DivInc A2 €
+1047;OPM Vega A
+1288;SPP Aktiefond Japan
+328;Franklin Mutual US Value A acc USD
+747353;Allianz Structured Return AT13 H2 SEK
+801504;Danske Invest Horisont Försiktig SA
+121011;Nordea Klimatfond BP SEK
+168;Invesco Asia Opportunities Eq A USD Acc
+792013;Adrigo Small & Midcap L/S
+632575;Franklin Diversified Dyn A(acc)SEK-H1
+87987;SEB Swedish Value Fund
+801853;Danske Invest Horisont Offensiv SA
+766777;Jupiter Dynamic Bond L SEK Acc HSC
+426716;Fidelity Em Mkt Corp Dbt A-Acc-USD
+375216;SPP Global Solutions A
+1950;SPP Aktiefond Sverige A
+945454;SEB Företagsobligationsfond Hållbar SEK
+71318;MS INVF Global Brands A
+1101;Atlant Stability Offensiv
+2007;SEB Sverigefond Småbolag
+259057;Schroder ISF Glb Convert Bd A Acc USD
+746773;Allianz Green Bond AT3 H2 SEK
+134;Swedbank Robur Asienfond
+221608;C Worldwide Sweden Small Cap 1A
+12270;Janus Henderson Hrzn Pan Eurp Alp A2 EUR
+2037;CF Korträntefond A
+136;Nordea Asian
+1020238;Swedbank Robur Access Edge Em Mkt A SEK
+376714;Threadneedle (Lux) UK Eqs AG GBP Acc
+759593;Allianz Global Artfcl Intlgc AT EUR
+4765;Fidelity Japan Advantage A-Acc-JPY
+3066;HSBC GIF Euroland Eq Smlr Coms AC
+240788;MS INVF Global Infrastructure A
+263948;Templeton Global Ttl Ret A(acc)SEK-H1
+698234;IKC Global Infrastructure A
+729075;ODIN USA C
+1665;ODIN Norge C
+788398;Avanza Auto 6
+573;Länsförsäkringar Europa Aktiv A
+273630;MS INVF Global Opportunity A
+630;JPM Europe Strategic Growth A (dist) EUR
+122;Danske Invest China A
+2593;Danske Invest Eastern Europe exRussia A
+52229;SKAGEN Tellus A
+232949;AS SICAV I Japanese Eq S Acc JPY
+1557;UBS (Lux) ES US Opp $ P Acc
+246028;Franklin Global Real Estate A(acc)EUR-H1
+864973;Evli GEM B
+2191;MS INVF EMEA Equity A
+380137;Nordea Global Passiv Tillväxt SEK
+901093;SPP Global Multifactor Plus A
+202315;Mirae Asset Korea Equity A USD
+2156;Länsförsäkringar Tillväxtmarknad Aktiv A
+383302;Nordea 1 - Emerging Mkt Corp Bd HB SEK
+506277;Janus Henderson Hrzn Euro Corp Bd A2 EUR
+242;Fidelity European Multi Asset Inc A-Dis€
+2344;Fidelity Global Industrials A-Dis-EUR
+1573;BGF US Flexible Equity A2
+599;SPP Aktiefond Europa
+2028;Handelsbanken Kortränta (A1 SEK)
+1040039;HealthInvest Small & MicroCap Fund D
+378651;CS (Lux) Asia Local Currency Bd B USD
+281970;BNP Paribas Brazil Equity C C
+2131;Cicero Avkastningsfond A
+696433;Origo Quest 1 C
+330741;Cicero World 0-50
+180868;Pictet-Nutrition P EUR
+415683;BNP Paribas China Eq Cl C
+430255;Öhman Sverige Hållbar A
+443897;BSF Emerging Markets Abs Ret A2 USD
+1333;Pictet-Japanese Equity Opps R JPY
+413679;INVL Russia TOP20
+388595;Öhman FRN Hållbar A
+350438;Fidelity Glb Dmgrphcs A-Acc-USD
+40567;Nordea Stabil
+1011196;Consensus Småbolag A
+464;Handelsbanken Hälsovård Tema (A1 SEK)
+367456;East Capital Global EM Sustainable A SEK
+831733;AS SICAV I Euro Govt Bd A Acc EUR
+674;UBS (Lux) EF European Oppo (EUR) P
+64710;Strand Småbolagsfond
+1964;Enter Sverige Pro
+974382;Nordea 1 - Long Duration US Bd BP SEK
+841;Fidelity Euro Cash A-Dis-EUR
+241953;AS SICAV I Eurp Eq Div S Acc EUR
+321871;DNB Teknologi A
+30788;RobecoSAM Smart Energy B EUR
+2343;Fidelity World A-Dis-EUR
+891314;Invesco Japanese Equity Core A USD AD
+679796;Didner & Gerge US Small and Microcap
+817393;Nordic Cross Small Cap Edge R SEK
+435457;Invesco Global Ttl Ret EUR Bd A SEKH Acc
+289977;Threadneedle (Lux) Global Tech AU USD
+15209;Janus Henderson Emerging Markets R$ Acc
+1556;JPM US Select Equity A (acc) USD
+74111;Holberg Norden A
+648075;Simplicity Sverige
+590078;MS INVF European Fixed Inc Opps A
+380220;Evli Short Corporate Bond B SEK
+907815;Swedbank Robur Selection 75
+159177;Pictet-Russian Equities P USD
+981;SEB WWF Nordenfond
+106728;PriorNilsson Yield
+1506;Öhman Etisk Index USA A
+1041067;Avanza Europa
+219829;Jupiter China Select L USD Acc
+1015114;AuAg Silver Bullet A
+2375;Danske Invest Europe High Dividend A
+411417;Tundra Frontier Africa Fund A SEK
+92873;Jupiter European Opps L EUR Acc
+447115;SEB Korträntefond SEK – Lux utd
+457577;SEB Dynamisk Räntefond SEK – Lux
+933481;SEB Hållbar Faktor Emerging Markets A
+58;BGF Asian Dragon A2
+201630;Lancelot Ector Master Fund SB
+39649;Templeton BRIC A(acc)USD
+2021;SEB Obligation Flexibel D SEK - Lux utd
+996615;Evli Equity Factor USA B
+523895;Coeli Global Selektiv R SEK
+1316;JPM Japan Select Equity A (acc) JPY
+2075;Nordea Obligationsfond icke-utd
+244488;JPM ASEAN Equity A (acc) USD
+655395;Rhenman Global Opportunities L/S RC1 SEK
+187208;Caprifol Nordiska Fonden
+670776;BNP Paribas Aqua C C
+417084;Pareto Nordic Corporate Bond C
+559855;Ålandsbanken Norden Aktie EUR
+70541;Invesco Pan Eurp Struct Rspnb Eq AEURAcc
+1651;SEB Nordenfond
+965039;Invesco Renminbi Fixed Income A USD Acc
+513575;Handelsbanken Europa Selektiv
+2187;Templeton Emerging Markets A(acc)USD
+244836;Janus Henderson Hrzn Euro Corp Bd A2HSEK
+801500;Danske Invest Sverige Ränta SA
+440901;HSBC GIF Global EM Bd AC
+691677;MS INVF Emerging Mkts FI Opps A
+901674;INVL Global Emerging Markets Bond
+206;Swedbank Robur Access Mix
+33236;JPM Latin America Equity A (acc) USD
+924013;BMO Global Low Vol Alpha Eq A USD Acc
+888654;Schroder ISF China A A Acc USD
+894874;FIM IG Green ESG
+351738;Fidelity Em Mkts Infl-Lnkd Bd A-Acc-EUR
+94;Invesco Greater China Equity A USD Acc
+592236;Swedbank Robur Access Europa
+89347;Fidelity Em Eurp Mdl Est&Afr A-Acc-USD
+195872;SEB Nordenfond Småbolag C EUR - Lux
+551875;CF Bull
+2300;AMF Aktiefond Världen
+891316;Invesco Global High Income A USD SD
+478;SEB Bioteknikfond D EUR - Lux utd
+70031;AS SICAV I Asn Smllr Coms A Acc USD
+1285;Öhman Etisk Index Japan
+51667;Aktie-Ansvar Graal Offensiv
+2254;SEB Hållbarhetsfond Global
+965038;Invesco India Bond A USD Acc
+167;Öhman Etisk Index Pacific
+255288;Handelsbanken Realränte (A1 SEK)
+92827;SPP Korträntefond
+266588;ODIN Emerging Markets C
+1268;Länsförsäkringar Japan Indexnära
+862034;DNB Global Emerging Markets Indeks A
+1100;Atlant Edge
+114006;JPM Emerging Markets Equity A (acc) USD
+766778;Jupiter Global Value L USD Acc
+2983;Pictet-Health R USD
+73607;Fidelity US High Yield A-Acc-EUR
+370857;MS INVF Emerging Leaders Equity A
+2106;Öhman Obligationsfond A
+315589;BNP Paribas Global Envir Cl C
+1295;Franklin Japan A(acc)JPY
+1464;Handelsbanken Latinamerika Tema (A1 SEK)
+118857;Ålandsbanken Global Aktie B
+950780;Nordea 1 - Glb Gender Diversity BP SEK
+2253;Länsförsäkringar Global Hållbar A
+795773;Case All Star
+346836;Plain Capital ArdenX
+643537;GAM Star (Lux) - European Momentum D €
+142;Barings Asia Growth ClassA USD Inc
+288003;Allianz European Equity Div AT EUR
+508257;Handelsbanken Euro Obligation
+15212;Janus Henderson PanEurp SmarComs R€ Acc
+766773;Danske Invest Eur Corp Sust Bond A SEK h
+965035;Invesco Sustainable Allc A Acc EUR
+2821;BGF World Mining A2
+291;Lannebo Mixfond
+70501;AS SICAV I SelEuro HYBd A Acc EUR
+596635;Swedbank Robur Access Asien
+1844;Fidelity United Kingdom A-Dis-GBP
+1102;Aktie-Ansvar Graal HF
+202568;Pareto Aksje Norge B
+465121;LO Funds All Roads EUR PA
+874194;Peak Global Macro (A) SEK
+334675;BSF Dynamic Diversified Growth A2 SEK H
+789173;DNB Global Lavkarbon A
+48768;FIM Emerging Markets ESG
+41567;Avanza Zero
+801493;Danske Invest Europa (SEK) SA
+289924;Threadneedle (Lux) Pan Eurp SmCp Opps AE
+1630;SEB Hållbarhetsfond Norden C EUR – Lux
+86287;Pictet-Clean Energy R USD
+156028;Nordea 1 - European Corporate Bd HB SEK
+436064;Danske Invest Nordiska Företagsobl SEK h
+852914;SEF – Kavaljer Investmentbolagsfond A
+882677;Invesco Cnttl Eur Sm Cp Eq A USD AD
+186169;SEB Diversified C SEK - Lux
+1604;BGF US Small & MidCap Opps A2
+247;SEB Hållbarhetsfond Världen
+553535;Elementa
+882674;Invesco Korean Equity A USD AD
+455102;BNP Paribas Sust Euro Corp Bd Cl C
+153988;Franklin Japan A(acc)USD
+2284;BGF Global Long-Horizon Equity A2 USD
+70789;Schroder ISF Glb Em Mkt Opps A Acc USD
+801498;Danske Invest Sverige SA
+440975;HSBC GIF RMB Fixed Income AC
+377807;Avanza 50
+276112;Nordea Småbolagsfond Sverige
+576695;LO Funds Alt Risk Premia USD PA
+33107;Templeton Global Bond A(acc)EUR
+70229;Candriam Quant Equities Europe C Acc EUR
+2084;Länsförsäkringar Kort räntefond
+2348;Templeton Growth (Euro) A(acc)EUR
+2573;SEB Östeuropa ex Ryssland C EUR - Lux
+600080;UB Asia REIT Plus A
+216;SEB Trygg Placeringsfond
+32;Barings ASEAN Frontiers A USD Inc
+71332;Amundi Fds SBI FM India Eq A USD C
+380;Fidelity Global Infras A-Dis-EUR
+51;Templeton Asian Growth A(acc)USD
+817894;Nordic Cross Stable Return R SEK
+350597;Fidelity Global Corporate Bd A-Acc-EUR
+70331;MS INVF US Growth A
+69959;AS SICAV I Indian Equity A Acc USD
+20949;Pictet-Premium Brands R EUR
+375837;BSF Fixed Income Strategies A2 EUR
+2007;SEB Sverigefond Småbolag C/R
+600076;Swedbank Robur Access Japan
+874193;Peak Core Strategies (A) SEK
+74110;Holberg Rurik A
+38393;Fidelity Emerging Mkt Dbt A-Acc-USD
+1009153;Swedbank Robur Small Cap USA A
+1039468;ODIN Small Cap C SEK
+469956;Coeli Frontier Markets R SEK
+366;SEB Teknologifond D USD - Lux utd
+409820;MS INVF Emerging Markets Sm Cp Eq A
+73515;Fidelity European Hi Yld A-Acc-EUR
+470076;Enter Preserve A
+130487;CB Save Earth Fund RC
+35169;HSBC GIF Thai Equity AC
+882676;Invesco Global Small Cap Eq A USD AD
+1561;Nordea Nordamerika
+364932;Schroder ISF Glbl MA Inc A Acc USD
+330156;IKC Opportunities A
+1121;Catella Hedgefond A
+237986;Ålandsbanken Euro Bond B
+933482;SEB Hållbar Faktor Global A
+95907;ODIN Global C
+73884;SEB Asset Selection C SEK - Lux
+96447;DNB Fund Renewable Energy retail A
+344162;Stewart Investors Worldwide Eq A Acc GBP
+421196;Espiria Offensiv DC
+562715;SKAGEN Focus A
+2109;Skandia Kapitalmarknadsfond
+2435;SKAGEN Global A
+343420;Fidelity Asian Smaller Coms A-Acc-USD
+248552;Aktie-Ansvar Kvanthedge
+827673;Länsförsäkringar Fossilsmart
+1047827;CS (Lux) Small and Mid Cap Europe Eq B
+633;CB European Quality Fund A
+429484;Aktie-Ansvar Saxxum Aktiv
+346835;Plain Capital BronX
+891318;Invesco Emerging Markets Bond A USD SD
+436405;BGF Asian Growth Leaders A2 USD
+414068;CS (Lux) Japan Value Equity B JPY
+289918;Threadneedle(Lux) Emerging Mkt Dbt AU
+524110;East Capital Global Frontier Mkts A SEK
+379;Fidelity Global Technology A-Dis-EUR
+1464;Handelsbanken Amerika Småbl Tema A1 SEK
+283139;Cliens Sverige Fokus A
+34460;Sparinvest SICAV Global Value EUR R
+1044020;Quesada Vision A
+2338;Lannebo Teknik
+15218;Janus Henderson Latin American R$ Acc
+616835;European Alliance RPM Evolving CTA ER
+551035;IKC Fastighetsfond A
+4766;UBS (Lux) ES USA Growth $ P-acc
+953015;Proethos Fond
+1038778;Nordea 1 - Renminbi Bd BP SEK
+2008;Swedbank Robur Småbolagsfond Sverige
+147674;Sparinvest SICAV Ethical Gl Val EUR R
+476837;Ålandsbanken Premium 30 SEK
+317657;Invesco Global Equity Income A USD Acc
+935;SEB Östeuro Små o Medelst Bol EUR - Lux
+1038774;DNB High Yield retail A SEK
+880674;UB EM Frontier Real Assets A Tillväxt
+289989;Threadneedle(Lux) Global Em Mkt Eqs AU
+289964;Threadneedle (Lux) Glb Dyn RlRet AU USD
+643536;GAM Star (Lux) - Convert Alpha D EUR Acc
+226949;Nordea Stratega Ränta
+316502;BGF Asia Pacific Equity Inc A2 USD
+1949;AMF Aktiefond Sverige
+2143;BMO Responsible Glb Em Mkts Eq A Inc USD
+123990;JPM Brazil Equity A (acc) USD
+538155;SEB European High Yield Fund SEK - Lux
+1009577;Ålandsbanken Green Bond ESG B
+426720;Fidelity Em Mkt Lcl Ccy Dbt A-Acc-USD
+933615;Alcur
+376791;Threadneedle (Lux) US Contr Cr Eqs AU
+250171;Invesco Gold & Precious Mtls A USD Acc
+12275;Janus Henderson Hrzn Japan Opps A2 USD
+57892;Fidelity Glb MA Tact Mod A-Dis-EUR
+801503;Danske Invest Horisont Aktie SA
+70685;Fondita Nordic Micro Cap B
+965037;Invesco Macro Allc Strat A EUR Acc
+602916;Quesada Balanserad A
+159008;Pictet-Emerging Local Ccy Dbt R USD
+414056;CS (Lux) Security Equity B USD
+2571;BGF Emerging Europe A2
+465157;LO Funds Emerging Hi Convc USD PA
+813854;Sparinvest SICAV VB EM Corp SEK R H
+1012654;BNP Paribas Glb Eq Cl Cap
+973;JPM Euroland Equity A (dist) EUR
+321696;DNB Health Care A
+944976;Avanza Emerging Markets
+470082;Lannebo Komplett
+1963;Enter Sverige A
+214448;IKC Sverige Flexibel
+140888;Nordea Sverige Passiv icke-utd
+512555;Handelsbanken Finlandsfond
+75253;Tellus Midas
+1341;Fidelity Japan Smaller Coms A-Dis-JPY
+16389;Catella Balanserad
+79691;Delphi Europe A
+12274;Janus Henderson Hrzn PanEurpSmrComs A2€
+58850;Pictet-Security R USD
+396355;MS INVF Global Asset Backed Secs A USD
+259101;UBS Global Emerging Market Opp USD P Acc
+2111;AMF Räntefond Lång
+154;Fidelity China Focus A-Dis-USD
+909;MS INVF European HY Bd A
+788398;Avanza Auto 4
+1038777;PriorNilsson Balans
+232954;AS SICAV I Technology Eq S Acc USD
+1022030;THEAM Quant Equity World GURU C USD Acc
+147674;Sparinvest SICAV Ethical EM Value EUR R
+70059;SchroderISF Glbl High Yield A Acc $
+655035;Quesada Ränta
+71042;AS SICAV I Sel EM Bd A Acc USD
+1599;SEB Nordamerika Små och Medelstora Bolag
+2003;Öhman Småbolagsfond A
+84666;MS INVF US Advantage A
+1996;Spiltan Aktiefond Sverige
+124511;GAM Star Japan Ldrs-A EUR
+2572;Handelsbanken Amerika Tema (A1 SEK)
+41067;Swedbank Robur Kinafond
+454936;Danske Invest Tillväxtmarknadsobl SEK h
+827893;Coeli Potential R SEK
+148;Skandia Asien
+283141;Cliens Räntefond Kort
+1006230;Invesco Developing Mkts Eq A USD Acc
+290798;Allianz Europe Equity SRI A EUR
+334856;Carnegie Småbolagsfond A
+117408;Janus Henderson Hrzn China A2 USD
+237981;Ålandsbanken Europe Value B
+523834;Catella Credit Opportunity
+708773;Storebrand Global Multifactor A
+316508;BGF Global Equity Income A2
+210;Skandia SMART Balanserad
+1678;Swedbank Robur Småbolagsfond Norden
+347375;Skandia Norden
+801505;Danske Invest Horisont Balanserad SA d
+713373;BMO Diversified Growth A Acc SEK Hdg
+462915;UBS (Lux) BS Global Dyn $ P-acc
+186169;SEB Diversified V8 C SEK - Lux
+230508;Danske Invest Russia A
+364655;Öhman Etisk Emerging Markets A
+70879;MS INVF Asian Equity A
+906;Evli High Yield B
+2087;Carnegie Corporate Bond 3 SEK Cap
+736;AMF Aktiefond Europa
+311567;Schroder ISF Glbl Sust Gr A Acc USD
+422;UBS (Lux) EF Tech Opp (USD) P acc
+288001;Allianz Europe Small Cap Equity AT EUR
+38389;Fidelity Global Property A-Acc-USD
+972004;Amundi Fds China Equity A USD C
+111428;Templeton Em Mkts Smlr Coms A(acc)USD
+350435;Fidelity Glb Shrt Dur Inc A-Acc-USD
+801500;Danske Invest Sverige Beta SA
+909193;Öhman Navigator B
+235;SEB Pensionsfond D USD - Lux utd
+208;Nordea 1 - Asset Alloc Fd Fut Sub-Fd SEK
+1647;Fondita Equity Spice B
+15147;Alfred Berg Gambak
+1663;FIM Fenno
+788398;Avanza Auto 2
+491;Swedbank Robur Råvarufond A SEK
+823614;Skandia Sverige Hållbar
+351739;Fidelity Asia Pacific Div A-Dis-USD
+817894;Nordic Cross Total Return R SEK
+189969;FIM Emerging Yield
+896853;SEB Norway Focus Fund C SEK - Lux
+68;Barings Hong Kong China A USD Inc
+1634;ODIN Norden C
+600078;UB EM Infra A
+70220;MS INVF Latin American Equity A
+691675;MS INVF European Champions A
+2247;Skandia Världen
+181108;Länsförsäkringar USA Indexnära
+73;JPM China A (dist) USD
+80265;Adrigo Hedge
+2108;Skandia Realräntefond
+112622;Franklin Natural Resources A(acc)USD
+96927;AMF Aktiefond Nordamerika
+38393;Fidelity Emerging Mkt Dbt A-Acc-SEK Hdg
+600077;UB Global REIT A
+839253;Länsförsäkringar Fastighet Europa
+38;SEB Asien Småbolag ex Japan C SEK - Lux
+953456;BMO SDG Engagement Glbl Eq A USD Acc
+300236;AS SICAV I Latin Amer Eq A Acc USD
+1029789;She Invest Sweden
+143228;SEB Bioteknikfond C EUR - Lux
+791753;Handelsbanken Norden Ind Criteria A1 SEK
+133428;Fidelity Asia Pacific Opps A-Acc-EUR
+290054;DNB Telecom A
+364;SEB Teknologifond
+18876;ODIN Europa C
+323517;Espiria Sverige/Världen AC
+155010;Nordea 1 - European High Yld Bd HB SEK
+324895;Dynamica 90 Global
+355598;Evli High Yield B SEK
+207548;C WorldWide Sweden 1A
+732593;PriorNilsson Smart Global
+878733;Avanza Global
+721;Pictet-European Sustainable Eqs R EUR
+408475;Allianz Discovery Eurp Strat A13 EUR
+512875;Dynamica 80 Sverige
+2743;Handelsbanken Multi Asset 50
+181108;Länsförsäkringar Europa Indexnära
+150;DNB Fund - Asian Small Cap retail A
+455;Franklin Biotechnology Discv A(acc)USD
+972534;Amundi Fds Pioneer US Bd A USD C
+70783;First State Asian Prpty Secs A Acc GBP
+20251;FIM Europa
+504;FIM Brands
+1918;ODIN Sverige C
+937474;Carnegie Multi A
+1025150;Avanza USA
+925393;UBS (Lux) ES All China (USD) P acc
+192309;SEB Listed Private Equity C EUR - Lux
+317660;Invesco Japanese Eq Val Discv A JPY
+713375;BMO Responsible Global Equity A Inc USD
+135;Handelsbanken Asien Tema (A1 SEK)
+234112;Fidelity International A-Acc-USD
+267333;Catella Nordic L/S Equity R
+784;SEB Schweizfond
+1040;SPP Generation 60-tal
+415796;BNP Paribas US Small Cap Classic R
+1034185;Spiltan Enkel
+344159;First State Emerg Mkts Bd A Hdg Acc GBP
+69880;Candriam Bds Total Ret C EUR Cap
+836873;SPP Europa Plus A
+250350;Invesco Latin American Equity A USD Acc
+177766;Amundi Fds CPR Global Resources AU-C
+1478;Skandia USA
+1040;SPP Generation 50-tal
+237973;Ålandsbanken Kort Företagsränta
+2585;Templeton Eastern Europe A(acc)EUR
+61547;HSBC GIF BRIC Markets Equity AC
+342255;Simplicity Företagsobligationer A
+121;Pictet-Indian Equities R USD
+960930;HSBC GIF Multi-Asset Style Factors AC
+414058;Allianz Emerging Asia Equity A USD
+236069;Franklin Gold & Prec Mtls A(acc)USD
+953014;Augmented Reality Fund A
+804453;Indecap Guide Q30 C
+855015;Öhman Sverige Fokus A
+1983;SEB Sverigefond
+71285;Schroder ISF Global Energy A Acc USD
+676;SEB Europafond
+33211;JPM Taiwan A (acc) USD
+811073;CS (Lux) High Yield USD Bond B USD
+310258;JPM Emerging Europe Equity A (acc) USD
+411236;Skandia Nordamerika Exponering
+1871;Swedbank Robur Transition Global
+79;Fidelity Australia A-Dis-AUD
+376651;UBS (Lux) ES As Smlr Coms (USD) P-acc
+232950;AS SICAV I Chinese Eq S Acc USD
+150048;SEB Sverige Indexfond
+290802;AS SICAV I EM Corp Bd A Acc USD
+2240;Handelsbanken Global Tema (Criteria)
+880673;Danske Inv SICAV Sverige Småbolag SA SEK
+899034;East Capital China A-Shares A USD
+441286;HSBC GIF Frontier Markets AC
+1006234;Invesco Emer Mkt Innv Eq A USD Acc
+317768;Tundra Pakistan Fund A SEK
+1023645;BGF Circular Economy A2 USD
+276448;Rhenman Healthcare Equity L/S RC1 SEK
+1006233;Invesco Emer Mkt Lcl Dbt A USD Acc
+700393;LO Funds All Roads Syst. Hdg SEK PA
+887413;CF Företagsobligationsfond A
+262968;HSBC GIF Global EM Local Dbt AC
+70737;Invesco Global Structured Eq A USD AD
+420143;Nordea 1 - Latin American Equity BP SEK
+827894;Coeli Mix R SEK
+273828;Norron Target R
+1630;SEB Hållbarhetsfond Norden C SEK – Lux
+851913;BMO LGM Greater India W USD Acc
+377805;Avanza 100
+496;Pictet-Water R EUR
+691674;MS INVF Asia Opportunity A
+316677;Schroder ISF Strategic Bd A Acc SEK
+691676;DNB Grönt Norden
+237984;Ålandsbanken Premium 50 B
+274;Evli Finland Mix B
+644316;GAM Star European Equity A EUR Acc
+157549;SEB Korträntefond D EUR - Lux utd
+1051349;DNB Fund - Disruptive Opp Retail A SEK
+56127;Simplicity Likviditet A
+429935;Skandia Global Exponering A
+1703;Invesco Active Mlt-Sect Crdt A EUR Acc
+470457;Cicero Nordic Corporate Bond A
+1507;Franklin Select US Equity A(acc)USD
+2112;Catella Avkastning
+12266;Janus Henderson Hrzn Asian Growth A2 USD
+632;Aktie-Ansvar Europa
+1722;East Capital Ryssland
+2801;AMF Aktiefond Småbolag
+84;Fidelity Singapore A-Dis-USD
+2328;Storebrand Global Value A
+1474;SEB USA Indexfond D USD - Lux utd
+1546;BGF US Basic Value A2
+300237;Schroder ISF Frntr Mkts Eq A Acc USD
+350445;Fidelity Global Dividend A-Acc-USD
+2241;Swedbank Robur Småbolagsfond Glb A SEK
+316677;Schroder ISF Strategic Bd A Acc USD
+964491;Danske Invest Global Emerging Market SEK
+289895;Threadneedle (Lux) American AU
+2052;Öhman Kort Ränta A
+390076;FIM Euro
+551876;CF Bear
+2145;BGF Emerging Markets A2
+131491;DNB Fund Technology retail A
+404075;Tundra Sustainable Frontier Fund A SEK
+907818;Handelsbanken Tillväxtmarknad Obl A1 SEK
+490477;Coeli Nordisk Företagsobligation R SEK
+415680;BNP Paribas Glb Low Vol Eq Cl Cap
+506277;Janus Henderson Hrzn Euro HY Bd A2 EUR
+4762;Fidelity India Focus A-USD
+377797;Cliens Mixfond B
+1943;Catella Småbolag
+147684;Sparinvest SICAV Equitas EUR R
+878113;Alcur Select
+2545;SEB Corporate Bond C SEK - Lux
+773;Fidelity France A-Dis-EUR
+109;JPM Greater China A (dist) USD
+847;Evli Statsobligation B
+774;Fidelity Germany A-Dis-EUR
+26;Enter Select Pro
+1364;SEB Latinamerikafond
+74108;Holberg Global A
+70196;AS SICAV I World Equity A Acc USD
+63727;Lundmark & Co Aktiv Europa
+2026;Swedbank Robur Räntefond Kort
+2572;Handelsbanken EMEA Tema (A1 SEK)
+589935;Enter Småbolagsfond A
+56067;BGF India A2
+1284;SEB Japanfond
+13291;UBS (Lux) KSS Glbl Allc (EUR) P
+745573;BMO LGM Asian Growth and Inc W USD Acc
+273830;Norron Preserve R SEK
+65465;Sparinvest SICAV Inv Grd Val EUR R
+1619;UBS (Lux) EF Small Caps USA (USD) P
+289981;Threadneedle (Lux) Asia Equity Inc AU
+2103;SEB Realräntefond D SEK - Lux utd
+693993;Franklin GCC Bond A(acc)USD
+2370;Danske Invest Global Stockpicking A
+112109;DNB Fund - India retail A
+179968;Fidelity European Lgr Coms A-Acc-EUR
+301426;Amundi Fds WellsFargo US Eq MdCp A$ C
+246208;Aktie-Ansvar Multistrategi
+716154;BMO LGM Glbl EmMkts Gr and Inc W USD Acc
+1047828;CS (Lux) Global Value Equity B EUR
+151033;Allianz Global Sustainability A EUR
+776;Fidelity Italy A-Dis-EUR
+942;Invesco Pan European Sm Cp Eq A EUR Acc
+202408;Mirae Asset India Sector Leader Eq A USD
+2014;Lannebo Småbolag
+625255;Atlant Opportunity
+718413;CS (Lux) Global Prpty Ttl Rt Eq BH EUR
+259146;Schroder ISF QEP Glbl Qual A Acc USD
+2034;Aktie-Ansvar Avkastningsfond
+430355;Nordea Global Dividend Acc
+689;Pictet-European Equity Sel R EUR
+2742;Handelsbanken Multi Asset 25 (A1 SEK)
+2155;Handelsbanken Tillväxtmark Tema (A1 SEK)
+212068;Jupiter India Select L USD A Inc
+661875;Navigera Global Change
+882553;Danske Invest SICAV Europe A
+1996;Spiltan Räntefond Sverige
+414960;Allianz Europe Equity Gr Sel AT EUR
+84672;BGF Continental Eurp Flex A2
+1886;SEB Aktiesparfond
+30787;RobecoSAM Sustainable Water B EUR
+289923;Threadneedle (Lux) US Hi Yld Bd AU
+3161;East Capital Balkan
+85;Fidelity Thailand A-Dis-USD
+471796;Spiltan Högräntefond
+346837;Plain Capital StyX
+259043;Schroder ISF QEP Glb ActvVal A Acc USD
+909774;Allianz Global Water AT EUR
+365076;Schroder ISF Glbl Divers Gr A Acc EUR
+864974;Evli Global X B SEK
+873613;Nordic Cross Credit Edge A
+202408;Mirae Asset China Sector Leader Eq A USD
+57889;Fidelity FIRST All Country Wld A-Acc-EUR
+350;Länsförsäkringar Fastighetsfond A
+1959;Handelsbanken Sverige (A1 SEK)
+410277;Allianz US Equity Fund AT USD
+236;Länsförsäkringar Mix A
+924973;UBS (Lux) ES Glbl Imp (USD) P Acc
+2285;C WorldWide Global Equities 1A
+652895;SPP Global Plus A
+581;Skandia Europa Exponering
+13286;UBS (Lux) KSS Eurp Eq Val Opp EUR P-acc
+1272;Fidelity Japan A-Dis-JPY
+33231;JPM Global Natural Resources A (acc) EUR
+416835;Evli Aktieindex B
+157699;Didner & Gerge Småbolag
+86207;Evli Nordic B
+372;Öhman Global Growth
+15213;BGF Euro Corporate Bond A2 EUR
+734;BGF Euro-Markets A2
+262969;CS (Lux) European Div Plus Eq B EUR
+2252;DNB Fund Global ESG retail A
+113948;First State Glbl Lstd Infras A Acc GBP
+289909;Threadneedle (Lux) American Select AU
+15211;Janus Henderson Pan Eurp R€ Acc
+340060;Carneo Systematic Alpha A
+229;Carnegie Strategifond A
+2368;SEB Globalfond Chans/Risk C EUR - Lux
+435324;JPM Asia Pacific Equity A (dist) USD
+848153;Öhman Global Marknad Hållbar A
+132;SEB Asienfond ex Japan C USD - Lux
+563115;Öhman Räntefond Kompass Hållbar A
+131490;DNB Fund - Private Equity retail B
+512558;Handelsbanken Företagsobligation
+82968;UBS (Lux) ES Russia (USD) P-acc
+227292;Invesco Asia Consumer Demand A USD Acc
+2436;Franklin Global Sm-Mid Cap A(acc)USD
+435458;Invesco Emerging Mkt Corp Bd A SEKH Acc
+966254;Fidelity China High Yield A-Acc-USD
+801500;Danske Invest Sverige Kort Ränta SA
+475;BGF World Healthscience A2
+927735;TIN Ny Teknik A
+512559;Handelsbanken Hållbar Energi A1 SEK
+2186;Pictet-Emerging Markets R USD
+594;Fidelity Euro Blue Chip A-Dis-EUR
+237975;Ålandsbanken Euro High Yield B
+952;Danske Invest Europe Small Cap A
+427139;Fidelity Global Mlt Ast Inc A-Acc-USD
+1825;UBS (Lux) BS EUR Corp € P-acc
+70206;MS INVF Emerging Markets Equity A
+35;Fidelity Pacific A-Dis-USD
+359;FIM USA
+129;Carnegie Asia A
+302705;Fondita Sustainable Europe B
+316079;Didner & Gerge Global
+521;Fidelity Global Financial Svcs A-Dis-EUR
+590080;MS INVF US Dollar High Yield Bond A
+400485;Stewart Investors Wldwd Sustbl A Acc GBP
+381075;Pareto Global B
+321849;DNB SMB A
+26767;Nordea Kinafond
+15208;Janus Henderson Contnn Eurp R€ Acc
+2294;Fondita 2000+ B
+217470;Sensor Sverige Select
+2093;CF Ränteallokering A
+398162;BSF Global Absolute Return Bond A2 SEK H
+122368;C WorldWide Global Equities Ethical 1A
+364815;Schroder ISF Glbl MA Bal A Acc SEK H
+190708;JPM Global Corp Bd A (acc) SEK H
+310959;Fidelity Sust Strat Bd A-Acc-SEK H
+700713;UBS (Lux) ES Euro Countrs Inc€ P-acc
+2439;BGF Global Allocation A2
+355599;Evli Corporate Bond B SEK
+15214;BGF Emerging Markets Bond A2 EUR
+686931;Öhman Obligationsfond SEK A
+2362;BGF Systematic Glb SmallCap A2
+457;Fidelity Global Health Care A-Dis-EUR
+1047825;CS (Lux) Small and Mid Cap Germany Eq B
+334871;Allianz US High Yield AM USD
+57027;JPM Japan Equity A (acc) JPY
+3242;Danske Invest Japan A
+2412;Templeton Global Smaller Coms A(acc)USD
+416236;BNP Paribas Asia Ex-Jpn Eq C C
+2079;Handelsbanken Långränta Criteria
+157697;Templeton Asian Smlr Coms A(acc)USD
+2575;Swedbank Robur Östeuropafond
+1717;Swedbank Robur Rysslandsfond
+278;Swedbank Robur Bas Mix
+627795;European SICAV Alliance Galaxy E SEK
+2128;SPP Obligationsfond
+72;Templeton China A(acc)USD
+192388;Lynx Dynamic
+882675;Invesco Pacific Equity A USD AD
+904833;LO Funds All Rd Cnsrv EUR PA
+471;UBS (Lux) EF Biotech (USD) P-acc
+1715;Carnegie Rysslandsfond A
+536695;Lannebo High Yield
+981861;Alfred Berg Nordic Gambak C
+230;Carnegie Strategy 3 SEK Cap
+225;Templeton Global Balanced A(acc)USD
+212549;Templeton Global Bond A(acc)SEK-H1
+70668;MS INVF Global Property A
+137448;Evli Sverige Småbolag B
+235608;UBS (Lux) BF Global Flex (EUR H) P acc
+1484;Fidelity America A-Dis-USD
+470488;Nordea 1 - Global Small Cap BP SEK
+100848;JPM Korea Equity A (acc) USD
+1333;Pictet-Japanese Equity Sel R JPY
+2100;SEB Obligationsfond Flexibel C SEK - Lux
+416235;Evli Euro Liquidity B SEK
+1006231;Invesco Global Focus Eq A USD Acc
+378116;Lancelot Avalon
+343418;Fidelity China RMB Bond A-Acc-RMB
+927736;BGF FinTech A2
+1643;C WorldWide Nordic 1A
+252935;Danske Invest USA KL SEK
+2382;UBS (Lux) EF Glb Sust (USD) P-acc
+602917;Quesada Yield C
+84671;MS INVF Emerging Mkts Domstc Dbt A
+788398;Avanza Auto 5
+202311;Mirae Asset Asia Pacific Equity A USD
+722;Schroder ISF European Value A Acc EUR
+373;Skandia Time Global
+832734;AS SICAV I USD Crdt Bd A Acc USD
+741453;Allianz Global Equity Insights A EUR
+149930;SEB Etisk Global Indexfond C USD - Lux
+165268;Navigera Balans 1
+475796;Tundra Vietnam A SEK
+26827;Öhman Realräntefond A
+159608;Länsförsäkringar Sverige Indexnära
+70759;Invesco India Equity A USD Acc
+180;UBS (Lux) EF Asian Consum (USD) P
+618;Öhman Etisk Index Europa
+853413;Sparinvest SICAV VB EM Corporate EUR R
+417655;Länsförsäkringar Global Indexnära
+693833;Aktiespararna Direktavkastning A
+43947;Nordea Indienfond
+1877;Swedbank Robur Globalfond A
+1044020;Quesada Vision B
+324195;Carnegie Fastighetsfond Norden A
+1373;Templeton Latin America A(acc)USD
+667455;Pacific Explorer Dynamic A
+1646;DNB Fund Nordic Equities retail A
+83;Fidelity Malaysia A-Dis-USD
+393598;Allianz Japan Equity A USD
+70110;Amundi Fds Euro HY Bd A EUR C
+192;Skandia SMART Försiktig
+151059;Allianz Europe Equity Growth A EUR
+2591;East Capital Östeuropa
+164908;SEB Sustainable High Yield C SEK – Lux
+416245;BNP Paribas Germany Mlt-Fac Eq C C
+2151;Fidelity Em Mkts A-DIST-USD
+435455;Invesco Balanced-Risk Allc A SEKH Acc
+123809;Fidelity Emerging Asia A-Acc-USD
+2122;SEB Obligationsfond SEK
+728;SEB Hållbarhetsfond Europa D (EUR)
+590081;MS INVF US Dollar Short Dur HY Bd A
+2354;Evli Global B
+444946;Skandia Tillväxtmarknadsfond
+1263;Skandia Japan Exponering
+431056;Mirae Asset Asia Sect Ldr Eq A USD Cap
+301417;Amundi Fds CPR Global Gold Mines AU
+45489;Strand Förmögenhetsfond
+838;SEB Korträntefond C USD - Lux
+1006232;Invesco Global Equity A USD Acc
+198508;OPM Listed Private Equity
+2332;SPP Aktiefond Global A
+209088;Humle Sverigefond
+18067;Danske Invest India A
+777;Fidelity Switzerland A-Dis-CHF
+573;Länsförsäkringar USA Aktiv A
+380220;Evli Short Corporate Bond B
+219388;Nordea 1 - US Corporate Bond HB SEK
+106729;PriorNilsson Idea
+84669;MS INVF Indian Equity A
+766776;Jupiter Global Absolute Rt L SEK HSC Acc
+766774;Jupiter Global Em Mkts Eq Uncons L$ Acc
+2569;JPM Emerging Europe Equity A (dist) EUR
+620;C WorldWide Stable Equities 1A
+1009153;Swedbank Robur Small Cap EM A
+173520;JPM Africa Equity A perf (acc) USD
+38392;Excalibur
+502239;Candriam Eqs L Europe Convct C EUR Cap
+1896;Skandia Världsnaturfonden
+556795;Quesada Sverige
+165269;Navigera Aktie 1
+145768;Atlant Stability
+528375;Espiria Världen DC
+180708;Danske Invest Euro IG Corp Bd A SEKH
+445;C WorldWide Healthcare Select 1A
+20252;FIM Artificiell Intelligens A
+2410;Templeton Glb Climate Change A(acc)EUR
+165288;Fidelity European Hi Yld A-Acc-SEK Hdg
+887413;AMF Företagsobligationsfond
+929225;BGF Next Generation Technology A2
+600075;Swedbank Robur Access Global
+836053;Norron Alpha RC SEK
+202868;Case Fair Play
+1084210;Allianz Strategic Bond AT H2-EUR
+886613;Invesco Asian Equity A USD AD
+289948;Threadneedle (Lux) European Strat Bd AE
+20249;FIM Kapitalförvaltning 50 Tillv
+4765;Fidelity Japan Advantage A-Dis-JPY
+2578;SEB Östeuropafond
+316679;Schroder ISF Glbl Hi Yld A Acc SEK
+2098;Carnegie Obligationsfond A
+29851;JPM Russia A (acc) USD
+119488;Jupiter Global Elgy Div L EUR Acc
+616838;Janus Henderson Hrzn EM Corp Bd A2 USD
+3101;Carnegie Indienfond A
+259110;Schroder ISF Global Eq Alp A Acc USD
+184348;JPM Income Opp A perf (acc) SEKH
+155009;Nordea 1 - US High Yield Bond HB SEK
+759973;Fondita European Micro Cap B
+1689;Templeton Emerging Mkts Bd A(Qdis)USD
+910093;Handelsbanken EM Index (A1 SEK)
+232951;AS SICAV I Asia Pac Eq S Acc USD
+118348;JPM Europe Dynamic A (dist) EUR
+1040;SPP Generation 70-tal
+562;Handelsbanken Europa Tema (A1 SEK)
+1891;Swedbank Robur Transition Sweden
+181868;GodFond Sverige & Världen
+2179;Schroder ISF Em Mkts A Acc USD
+196928;JPM Global Healthcare A (acc) USD
+79692;Delphi Nordic A
+685395;Lannebo Europa Småbolag A SEK
+891315;Invesco Global Real Est Sec A EURH Acc
+694153;SPP Sverige Plus A
+1028837;Pareto Nordic Cross Credit A SEK
+951763;JPM US Technology A (acc) USD
+76993;Fidelity Iberia A-Acc-EUR
+596;Barings Europa A USD Inc
+1895;Skandia Cancerfonden
+1009576;GAM Star (Lux) - Global Alpha D EUR Acc
+1607;Fidelity American Growth A-Dis-USD
+1674;Evli Finland Select B
+1025147;Öhman Global Småbolag Hållbar A
+851914;BMO LGM Asian Smaller Coms W USD Acc
+214730;IKC 0-100
+12276;Janus Henderson Hrzn Jpn Smr Coms A2 USD
+972005;Amundi Fds Pinr US Eq Rsrch Val A USD C
+1681;Fondita Nordic Small Cap B
+2011;Länsförsäkringar Småbolag Sverige A
+409833;Nordea Asian Stars A SEK
+259113;Schroder ISF Asian Eq Yld A Acc USD
+886413;Fondita Healthcare B
+1961;Aktiespararna Topp Sverige
+252931;JPM Global Strat Bd A perf (acc) SEKH
+64529;Swedbank Robur Global Emerging Markets
+728;SEB Hållbarhetsfond Europa C (EUR)
+420192;Nordea Stabila Aktier Tillväxtmarknader
+26773;Nordea Rysslandsfond
+248555;Aktie-Ansvar Graal Aktiehedge
+148529;Sparinvest SICAV Procedo EUR R
+315116;Handelsbanken Sverige 100 Ind Cri A1 SEK
+1339;BGF Japan Small & MidCap Opps A2 USD
+1711;Schroder ISF EM Dbt Abs Rt A Acc USD
+1933;Swedbank Robur Ny Teknik A
+187;Pictet-Asian Equities Ex Japan R USD
+139416;Franklin MENA A(acc)USD
+254209;INVL Baltic Fund
+351;ODIN Fastighet C
+1682;Handelsbanken Nordiska Småbolag (A1 SEK)
+289925;Threadneedle (Lux) Glb Smlr Coms AE
+1919;Didner & Gerge Aktiefond
+379956;Cliens Sverige B
+286894;Allianz All China Equity AT USD
+932;Fidelity European Smlr Coms A-Dis-EUR
+202649;HSBC GIF Russia Equity AC
+666676;Pacific Precious A
+966680;Fronteer Harvest L
+177748;Amundi Fds Volatil Wld A USD C
+119590;Jupiter Financial Innovt L USD Acc
+600082;UB Nordamerika REIT A
+459;Pictet-Biotech R USD
+148528;Sparinvest SICAV Securus SEK R
+713374;BMO European Real Estate Scs A Acc EUR
+460566;Pictet - Global Envir Opps P USD
+29854;Franklin Mutual European A(acc)EUR
+2012;Skandia Småbolag Sverige
+2010;Öhman Sweden Micro Cap A
+708;BGF European Special Situations A2
+78828;SEB Rysslandfond C EUR - Lux
+259136;Schroder ISF Global Smlr Coms A Acc USD
+510;Öhman Global Hållbar A
+414061;CS (Lux) Global Div Plus Eq B USD
+155953;Lannebo Sverige Plus
+82967;UBS (Lux) EEF Glbl Bd $ P Acc
+70298;Candriam Bds Em Mkts C USD Cap
+123;Schroder ISF Greater China A Acc USD
+1948;Catella Sverige Hållbart Beta A
+2742;Handelsbanken Multi Asset 100 (A1 SEK)
+281;AMF Balansfond
+492;BGF World Gold A2
+972;Nordea 1 - European Sm&Mid Cp Eq BP SEK
+301423;Amundi Fds Equity MENA A USD C
+447023;Swedbank Robur Global High Dividend SEK
+862035;Lannebo Nordic Equities SEK
+38388;Fidelity Sustainable Euroz Eq A-Acc-EUR
+552855;Pareto Global Corporate Bond A
+334870;Allianz Income and Growth AT USD
+267332;Catella Nordic Corporate Bond Flex R
+320490;Allianz China Strategic Bond A USD
+1376;BGF Latin American A2
+165270;Navigera Tillväxt 1
+2482;Templeton Global Bond A(Mdis)USD
+2088;Länsförsäkringar Lång Räntefond A
+789174;PLUS Mikrobolag Sverige Index
+457575;Handelsbanken Flexibel Ränta A1 SEK
+431;BGF World Technology A2
+602917;Quesada Yield A
+376665;UBS(LUX) ES Glb Hi Div USD P-acc
+192934;Fondita European Small Cap B
+363;Swedbank Robur Technology A SEK
+263951;Franklin US Opportunities A(acc)SEK-H1
+522;Fidelity Global Cnsmr Inds A-Dis-EUR
+2028;Handelsbanken Kortränta SEK (A1 SEK)
+592236;Swedbank Robur Access USA
+91107;Enter Select A
+2006;Handelsbanken Svenska SMB (A1 SEK)
+2136;SEB Emerging Marketsfond C USD - Lux
+2453;Fidelity Global Focus A-Dis-USD
+541;BGF World Financials A2
+104;UBS (Lux) EF Greater China (USD) P
+927737;BGF Future of Transport A2
+656;Evli Europe B
