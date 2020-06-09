@@ -108,6 +108,17 @@ And generate a plot
 #with_historical.plot_data()
 ```
 
+You can also query a bunch of instruments in an asynchronous way. This method is so fast, but note that you might get in trouble, i.e. banned IP. To the best of my knowledge, no one has reported this yet.
+
+```python
+instruments = avanza.get_multiple_async_instruments(
+                     ["788297", "471756"],
+                     [InstrumentType.STOCK, InstrumentType.STOCK])
+for i in instruments:
+    print(i.name)
+        
+``` 
+
 
 # Testing
 Incomplete, unorganized, inconsistent. YOLO

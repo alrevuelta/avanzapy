@@ -7,10 +7,10 @@ import asyncio
 
 id_list = ['5240','5447', '98412', '5364', '625616']
 type_list = [InstrumentType.STOCK,
-                 InstrumentType.STOCK,
-                 InstrumentType.STOCK,
-                 InstrumentType.STOCK,
-                 InstrumentType.STOCK]
+             InstrumentType.STOCK,
+             InstrumentType.STOCK,
+             InstrumentType.STOCK,
+             InstrumentType.STOCK]
 
 
 id_list2 = [
