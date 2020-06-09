@@ -1,6 +1,7 @@
 from avanzapy.constants import InstrumentType
 import matplotlib.pyplot as plt
 import uuid
+from avanzapy.historicaldata import HistoricalData
 
 class Instrument:
     # Generic class of an instrument (see Instrument Type)
