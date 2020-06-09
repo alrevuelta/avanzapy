@@ -160,14 +160,24 @@ class Instrument:
     def change_percent_1d(self):
         return self.get('changePercent')
 
+    "Looks like this field is not always present. Quick fix"
     @property
     def change_percent_1w(self):
-        return round(((self.price / self.get('priceOneWeekAgo')) - 1) * 100, 2)
+        try:
+            return round(((self.price / self.get('priceOneWeekAgo')) - 1) * 100, 2)
+        except:
+            return ""
 
     @property
     def change_percent_1m(self):
-        return round(((self.price / self.get('priceOneMonthAgo')) - 1) * 100, 2)
+        try:
+            return round(((self.price / self.get('priceOneMonthAgo')) - 1) * 100, 2)
+        except:
+            return ""
 
     @property
     def change_percent_1y(self):
-        return round(((self.price / self.get('priceOneYearAgo')) - 1) * 100, 2)
+        try:
+            return round(((self.price / self.get('priceOneYearAgo')) - 1) * 100, 2)
+        except:
+            return ""
