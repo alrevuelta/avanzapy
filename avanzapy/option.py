@@ -10,7 +10,10 @@ class Option(Instrument):
     def price(self):
         return self.raw_data['underlyingOrderbook']['lastPrice']
 
-    #Options don't have one month and year change
+    #TODO Not sure about this
+    def change_percent_1w(self):
+        return ""
+
     @property
     def change_percent_1m(self):
         return ""
@@ -18,3 +21,4 @@ class Option(Instrument):
     @property
     def change_percent_1y(self):
         return ""
+

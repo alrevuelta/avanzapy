@@ -9,7 +9,10 @@ import json
 from datetime import datetime as dt
 import pandas
 from avanzapy.historicaldata import HistoricalData
-
+import aiohttp
+import asyncio
+from aiohttp import ClientSession
+import json
 
 class Avanza:
     URL_SEARCH = 'https://www.avanza.se/_mobile/market/search/{instrument}?query={query}&limit={limit}'
@@ -21,6 +24,9 @@ class Avanza:
         # login optional
 
         self.__session = requests.Session()
+
+        # All the async stuff is very very experimental
+        self.__async_session = aiohttp.ClientSession()
 
     # Methods borrowed from JS implementation fhqvst/avanza
     def authenticate(self):
@@ -227,6 +233,47 @@ class Avanza:
         historical = HistoricalData(hist_data, chart_type, chart_resolution, time_period)
 
         return instrument_factory(instrument_type, response, historical)
+
+
+    """
+    Experimental.
+    Not ment to be used outside
+    """
+    async def __get_single_async_instrument(self, session, instrument_type, instrument_id):
+        url = self.URL_INSTRUMENTS.replace('{instrumentType}', instrument_type.name.lower())\
+                                  .replace('{id}', instrument_id)
+        print(url)
+        resp = await session.request(method="GET", url=url)
+        resp.raise_for_status()
+        html = await resp.text()
+
+        #todo is there a way to directly get the dict without having to convert it?
+        x = instrument_factory(instrument_type, json.loads(html))
+        return x
+
+    """
+       Experimental.
+       Not ment to be used outside
+       """
+    async def __get_multiple_async_instruments(self, type_list, id_list):
+        async_inst = []
+        return_this = []
+        # TODO verify_ssl is Off because I had some problems with mac. Quick fix while prototyping
+        async with ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
+            for type, id, in zip(type_list, id_list):
+                async_inst.append(self.__get_single_async_instrument(session, type, id))
+            instruments = await asyncio.gather(*async_inst)
+        return instruments
+
+    """
+    
+    """
+    def get_multiple_async_instruments(self,
+                                       type_list: '[str]',
+                                       id_list: '[InstrumentType]')->'[Instrument]':
+        loop = asyncio.get_event_loop()
+        instruments = loop.run_until_complete(self.__get_multiple_async_instruments(type_list, id_list))
+        return instruments
 
     """
     """
