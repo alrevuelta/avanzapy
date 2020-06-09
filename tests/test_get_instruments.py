@@ -2,7 +2,6 @@ import unittest
 from avanzapy.avanzapy import Avanza
 from avanzapy.constants import InstrumentType
 
-
 class GetInstrumentTest(unittest.TestCase):
     avanza = Avanza()
 
