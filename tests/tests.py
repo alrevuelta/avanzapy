@@ -29,6 +29,8 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1y ", stock.change_percent_1y)
 
         self.assertEqual(stock.name, 'Ericsson B')
+        self.assertEqual(stock.id, '5240')
+        self.assertEqual(stock.type, InstrumentType.STOCK)
 
     def test_fund(self):
         # https://www.avanza.se/aktier/om-aktien.html/573
@@ -53,6 +55,8 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1y ", fund.change_percent_1y)
 
         self.assertEqual(fund.name, 'Länsförsäkringar Europa Aktiv A')
+        self.assertEqual(fund.id, '573')
+        self.assertEqual(fund.type, InstrumentType.FUND)
 
     def test_bond(self):
         # https://www.avanza.se/obligationer/om-obligationen.html/572908/estea-kapbevis3
@@ -77,11 +81,13 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1y ", bond.change_percent_1y)
 
         self.assertEqual(bond.name, 'ESTEA KAPBEVIS3')
+        self.assertEqual(bond.id, '572908')
+        self.assertEqual(bond.type, InstrumentType.BOND)
 
     def test_option(self):
-        # https://www.avanza.se/optioner/om-optionen.html/1087813/omxs300r05y1460
+        # https://www.avanza.se/optioner/om-optionen.html/1101810/omxs300f12y1830
 
-        option = self.avanza.getInstrument(InstrumentType.OPTION, '1087813')
+        option = self.avanza.getInstrument(InstrumentType.OPTION, '1101810')
 
         print("\nParameters")
         print("name              ", option.name)
@@ -101,7 +107,9 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1m ", option.change_percent_1m)
         print("change_percent_1y ", option.change_percent_1y)
 
-        self.assertEqual(option.name, 'OMXS300R05Y1460')
+        self.assertEqual(option.name, 'OMXS300F12Y1830')
+        self.assertEqual(option.id, '1101810')
+        self.assertEqual(option.type, InstrumentType.OPTION)
 
     def test_future_forward(self):
         # https://www.avanza.se/terminer/om-terminen.html/914880/omxs300f
@@ -126,6 +134,8 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1y ", forward.change_percent_1y)
 
         self.assertEqual(forward.name, 'OMXS300F')
+        self.assertEqual(forward.id, '914880')
+        self.assertEqual(forward.type, InstrumentType.FUTURE_FORWARD)
 
     def test_certificate(self):
         #https://www.avanza.se/aktier/om-aktien.html/804912
@@ -150,6 +160,8 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1y ", certificate.change_percent_1y)
 
         self.assertEqual(certificate.name, 'BEAR AIRBUS X5 AVA 1')
+        self.assertEqual(certificate.id, '804912')
+        self.assertEqual(certificate.type, InstrumentType.CERTIFICATE)
 
 
     def test_warrant(self):
@@ -175,6 +187,8 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1y ", warrant.change_percent_1y)
 
         self.assertEqual(warrant.name, 'MINI L AMAZON AVA 17')
+        self.assertEqual(warrant.id, '718858')
+        self.assertEqual(warrant.type, InstrumentType.WARRANT)
 
     def test_etf(self):
         #https://www.avanza.se/aktier/om-aktien.html/924016
@@ -200,6 +214,8 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1y ", etf.change_percent_1y)
 
         self.assertEqual(etf.name, 'LYX ETF Green Bond (DR) ACC')
+        self.assertEqual(etf.id, '924016')
+        self.assertEqual(etf.type, InstrumentType.EXCHANGE_TRADED_FUND)
 
     def test_index(self):
         #https://www.avanza.se/aktier/om-aktien.html/961717
@@ -224,6 +240,8 @@ class GetInstrumentTest(unittest.TestCase):
         print("change_percent_1y ", index.change_percent_1y)
 
         self.assertEqual(index.name, 'OMX Stockholm 30 ESG Responsible Index')
+        self.assertEqual(index.id, '961717')
+        self.assertEqual(index.type, InstrumentType.INDEX)
 
 
 if __name__ == '__main__':

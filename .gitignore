@@ -1,5 +1,6 @@
 
 .DS_Store
 avanzapy/__pycache__/*
-avanzapy/venv_py/*
-venv_py/*
+avanzapy/venv/*
+venv/*
+.idea/*
