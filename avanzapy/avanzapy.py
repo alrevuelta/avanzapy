@@ -269,8 +269,8 @@ class Avanza:
     
     """
     def get_multiple_async_instruments(self,
-                                       type_list: 'List[str]',
-                                       id_list: 'List[InstrumentType]')->'List[Instrument]':
+                                       type_list: '[str]',
+                                       id_list: '[InstrumentType]')->'[Instrument]':
         loop = asyncio.get_event_loop()
         instruments = loop.run_until_complete(self.__get_multiple_async_instruments(type_list, id_list))
         return instruments
