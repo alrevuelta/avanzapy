@@ -8,7 +8,7 @@ setup(
 
     # TODO Single source the version. Currently this has to be changed manually
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.0.1',
+    version='0.0.2',
     description='A Python wrapper to interact with Avanza',
     long_description="With this Python wrapper you can interact with the Swedish broker Avanza. You can run two "
                      "types of query: logged in and not logged in. Regarding the first ones you can query your "
