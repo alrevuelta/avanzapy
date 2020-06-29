@@ -1,3 +1,6 @@
+![Python application](https://github.com/alrevuelta/avanzapy/workflows/Python%20application/badge.svg)
+![Upload Python Package](https://github.com/alrevuelta/avanzapy/workflows/Upload%20Python%20Package/badge.svg)
+
 # avanzapy
 This is a Python wrapper for the unofficial Avanza API. Note that this project is just a prototype, so use at your own risk. Note also that I'm not affiliated with Avanza Bank AB in any way.
 
