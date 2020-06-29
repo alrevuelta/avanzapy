@@ -30,13 +30,13 @@ setup(
         # Pick your license as you wish
         'License :: OSI Approved :: MIT License',
 
-        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.6',
     ],
 
     keywords='avanza broker trading',
     package_dir={'avanzapy': 'avanzapy'},
     packages=['avanzapy'],
-    python_requires='>=3.8',
+    python_requires='>=3.6',
     install_requires=["aiohttp>=3.6.2",
                       "requests==2.23.0",
                       "pandas==1.0.4",
